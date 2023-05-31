@@ -9,6 +9,7 @@ Very minimal basic app to understand API and Flutter programming.
 You write the word in the input field, and the app send requests to the Rhymezone API, which returns the near rhymes.
 At, the end it prints the rhymes in the tabular form.
 
+[![SumBn.gif](https://s11.gifyu.com/images/SumBn.gif)](https://gifyu.com/image/SumBn)
 
 
 ## Things I learned:-
